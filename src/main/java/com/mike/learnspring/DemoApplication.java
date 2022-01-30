@@ -1,4 +1,4 @@
-package com.example.authenticatingldap;
+package com.mike.learnspring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

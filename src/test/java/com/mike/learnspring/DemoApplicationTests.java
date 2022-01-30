@@ -1,4 +1,4 @@
-package com.example.authenticatingldap;
+package com.mike.learnspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
